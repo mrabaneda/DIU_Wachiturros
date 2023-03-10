@@ -1,7 +1,7 @@
 # DIU23
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
 
-Grupo: DIU3_01Wachiturros99.  Curso: 2022/23 
+Grupo: DIU3_01Wachiturros.  Curso: 2022/23 
 Updated: 10/03/2023
 
 Proyecto: 
