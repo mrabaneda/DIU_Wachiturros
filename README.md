@@ -2,7 +2,7 @@
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
 
 Grupo: DIU3_01Wachiturros.  Curso: 2022/23 
-Updated: 10/03/2023
+Updated: 24/03/2023
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -12,7 +12,8 @@ Descripción:
 >>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+![Método UX](img/Wachiturro.png)
 
 Miembros
  * :bust_in_silhouette:   Daniel Ballesteros Fernandes     :octocat:     
@@ -38,9 +39,12 @@ Si observamos las diferentes opciones de artesanía presentes en la ciudad, vemo
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 ![Método UX](img/Persona1_JoseLuis.png)
+
 **Jose Luis** es una persona interesante para poner en este contexto. Es un perfil moderno capaz de amoldarse a situaciones de la juventud de hoy día lo que puede ser interesante, de la mano con su condición de empresario.
 
+
 ![Método UX](img/Persona2_Dolores.png)
+
 La segunda persona creada es **Dolores**, una mujer de 67 años que vive en un pueblo y tiene una vida clásica y familiar. Creemos que es una buena elección, ya que es un perfil que no va a tener altos conocimientos en tecnología, y que además es mayor, por lo que puede tener unas limitaciones que no se suelen tener en cuenta.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
