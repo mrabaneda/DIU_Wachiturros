@@ -32,18 +32,26 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Si observamos las diferentes opciones de artesanía presentes en la ciudad, vemos como Artesanías Nazarí es una de las mejores, más aclamadas y que ofrecen más posibilidades entre las que se tienen en cuenta.
+
+Artesanías Nazarí ofrece más variedades, así como mejores servicios de manera aparente que su competencia. Por ello y por todos los apartados que se incluyen en la comparativa, resaltando la posibilidad de reservas, la información y las visitas, se toma como mejor opción las Artesanías Nazarí.
+ 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+![Método UX](img/Persona1_JoseLuis.png)
+>>> Jose Luis es una persona interesante para poner en este contexto. Es un perfil moderno capaz de amoldarse a situaciones de la juventud de hoy día lo que puede ser interesante, de la mano con su condición de empresario.
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+![Método UX](img/Persona2_Dolores.png)
+>>> La segunda persona creada es Dolores, una mujer de 67 años que vive en un pueblo y tiene una vida clásica y familiar. Creemos que es una buena elección, ya que es un perfil que no va a tener altos conocimientos en tecnología, y que además es mayor, por lo que puede tener unas limitaciones que no se suelen tener en cuenta.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Jose Luis está interesado en abrir un espacio dentro de su agencia de viajes que incluya visitas a lugares de interés en Granada cuando mande a gente allá, sin embargo tiene problemas para contactar con la empresa por desconocimiento de alguna información que no aparece en el portal del taller, acabando nervioso. Creemos que es una situación capaz de darse más de una vez con alguien de su perfil.
+
+>>> Lola lleva un tiempo sin viajar, y está organizando un viaje a Granada con sus amigas. Una de ellas propuso buscar algo relacionado con la artesanía. Todas estuvieron de acuerdo, y comenzaron su búsqueda por los sitios más famosos e interesantes. La situación de Lola tiene una parte que no es común, ya que las personas de más edad no suelen viajar solas, ni organizar viajes solas; pero por otro lado sí es común buscar las necesidades que se plantean con su personaje.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
