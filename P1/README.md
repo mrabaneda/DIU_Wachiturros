@@ -1,12 +1,28 @@
 ## DIU - Practica1, entregables
 
 
+### Empathy Map
+
+![Método UX](../img/Empathy_Map.png)
+
+### Desk research: Análisis Competencia
+
+![Método UX](../img/Competitor_Analysis.png)
 
 
-- Desk research: Análisis Competencia 
-- 2 Personas 
-- 2 User Journey Map  ( 1 por persona)
-- Revisión de Usabilidad 
+### Personas
+
+![Método UX](../img/Persona1_Ficha.png)
+
+![Método UX](../img/Persona2_Ficha.png)
+
+### User Journey Map
+
+![Método UX](../img/User_Journey_Persona1.png)
+
+![Método UX](../img/User_Journey_Persona2.png)
 
 
-(valoración y conclusiones de esta etapa)
+### Usability Review
+
+
