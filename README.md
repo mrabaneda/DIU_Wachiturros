@@ -61,9 +61,9 @@ La segunda persona creada es **Dolores**, una mujer de 67 años que vive en un p
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Enlace al documento:  [Link](https://drive.google.com/file/d/1SF2Jma2P_A_lChiHQG2X5fw2u0Ill52i/view?usp=sharing)
+>>> - Valoración final (numérica): 51 - Moderate
+>>> - Comentario sobre la valoración:  Como podemos observar, la valoración final ha sido de un 51/100, lo cual nos confirma lo ya comentado anteriormente, que tiene muchos fallos en cuanto a su diseño. Aún así, no es catastrófica, y lo hemos podido ver a la hora de compararla con otras páginas competidoras las cuales también dejan que desear. La interfaz web es un campo en este sector aún por explotar, y el cual no da buena imagen a las empresas, o al menos, la que deberían tener.
 
 
 ## Paso 2. UX Design  
