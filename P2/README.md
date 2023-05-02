@@ -92,4 +92,4 @@ Asistentes, siendo aquellas personas que hacen uso de la empresa para conocer  a
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+En este paso hemos aprendido a hacer una propuesta de diseño de manera correcta. Gracias a la tabla del POV, hemos podido correlacionar los usuarios ficticios de la primera práctica como base de partida para el diseño de la aplicación. El Canvas nos ha proporcionado una visión más general de lo necesario y como enfocar el desarrollo del diseño, y mediante el Sitemap lo hemos organizado para posteriormente realizar algunos bocetos de nuestras ideas para la web. Cada paso es esencial a la hora de la propuesta del diseño, siendo de vital importancia sentar unas abses sólidas de cara a diseñar una aplicación bonita, con sentido y coherente.
