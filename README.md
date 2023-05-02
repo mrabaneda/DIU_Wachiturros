@@ -82,7 +82,7 @@ Mujer de 67 años jubilada y viajera. | Encontrar información sobre si existen 
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
 
-Nuestra propuesta se trata de una aplicación web que tiene como objetivo facilitar y esclarecer de la mejor manera posible la oportunidad de exponer e informar de las posibilidades que ofrecen talleres de Artesanía como el Nazarí. De esta manera se busca completar información esencial así como mejorar la presentación que se expone en la web original, dándole más accesibilidad y una cara más amigable cada vez que un nuevo visitante alcance la web de la empresa, así como incluir algunas funcionalidades que nos parece básicas para una web de la temática que se maneja, exprimiendo al máximo las posibilidades de la empresa.
+Nuestra propuesta se trata de una aplicación web que tiene como **objetivo facilitar y esclarecer** de la mejor manera posible la **oportunidad de exponer e informar de las posibilidades que ofrecen talleres de Artesanía** como el **Nazarí**. De esta manera se busca completar información esencial así como mejorar la presentación que se expone en la web original, dándole más accesibilidad y una cara más amigable cada vez que un nuevo visitante alcance la web de la empresa, así como incluir algunas funcionalidades que nos parece básicas para una web de la temática que se maneja, exprimiendo al máximo las posibilidades de la empresa.
 
 Una de las funcionalidades que nos parece interesante implementar sería un sistema de valoraciones para incrementar la información disponible sobre los talleres. Dicha valoración se puede implementar en un apartado del menú de la web que disponga de una interfaz para mostrar los diferentes usuarios y monitores de la artesanía y así conocerlos mejor y ayudar a la elección de las sesiones.
 
@@ -91,7 +91,7 @@ Por otro lado, queremos presentar la misma idea anterior, pero aplicada al talle
 Uno de los aspectos más importantes es el cómo llegar al taller, aspecto que no está por el momento muy claro. Se añadirá un apartado en la web que facilite formas de acceso mediante transporte al lugar donde se celebran los talleres y visitas, así como un formulario de contacto en el que se ofrecen guías turísticas por la ciudad llegando finalmente al destino.
 
 
-![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
+![Método UX](img/ScopeCanvas2.png) 2.b ScopeCanvas
 ----
 ![Método UX](img/ScopeCanvas2.png)
 
@@ -159,10 +159,20 @@ L: Low
 | Trabaja con Nosotros    | Formulario para empresas externas a la artesanía interesados en trabajos conjuntos.   
 
 
-![Método UX](img/Wireframes.png) 2.d Wireframes
+![Método UX](img/Wireframes.png) 2.d Prototipo Lo-Fi Wireframes
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+
+![Método UX](img/Boceto_lofi_home1.png)
+![Método UX](img/Boceto_lofi_tienda2.png)
+![Método UX](img/Boceto_lofi_quienessomos3.png)
+![Método UX](img/Boceto_lofi_comollegar4.png)
+![Método UX](img/Boceto_lofi_trabajaconnost5.png)
+![Método UX](img/Boceto_lofi_perfil6.png)
+![Método UX](img/Boceto_lofi_resenias7.png)
+![Método UX](img/Boceto_lofi_taller8.png)
+![Método UX](img/Boceto_lofi_home1.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
