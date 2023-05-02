@@ -172,7 +172,6 @@ L: Low
 ![Método UX](img/Boceto_lofi_perfil6.png)
 ![Método UX](img/Boceto_lofi_resenias7.png)
 ![Método UX](img/Boceto_lofi_taller8.png)
-![Método UX](img/Boceto_lofi_home1.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
