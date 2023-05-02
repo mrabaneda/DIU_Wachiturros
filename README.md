@@ -5,11 +5,11 @@ Grupo: DIU3_01Wachiturros.  Curso: 2022/23
 Updated: 24/03/2023
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Artesanía Nazarí
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Nuestra propuesta se trata de una aplicación web que tiene como objetivo facilitar y esclarecer de la mejor manera posible la oportunidad de exponer e informar de las posibilidades que ofrecen talleres de Artesanía como el Nazarí. De esta manera se busca completar información esencial así como mejorar la presentación que se expone en la web original, dándole más accesibilidad y una cara más amigable cada vez que un nuevo visitante alcance la web de la empresa, así como incluir algunas funcionalidades que nos parece básicas para una web de la temática que se maneja, exprimiendo al máximo las posibilidades de la empresa.
 
 Logotipo: 
 
@@ -62,44 +62,101 @@ La segunda persona creada es **Dolores**, una mujer de 67 años que vive en un p
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / Empathy map / POV
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+>>> POV
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+ User | Need | Insight    
+| ------------- | ------- | ----------
+Hombre de 24 años con perfil de empresario. | Encontrar en la web alguna forma de comunicarse con la empresa. | El hombre busca una forma de ponerse en contacto con la artesanía como representante de su empresa para establecer algún tipo de negocio con ella, pero no encuentra una forma específica de hacerlo más que la opción existente abierta para todos los públicos.
+Hombre de 24 años con perfil de empresario. | Encontrar los diferentes horarios que se ofertan para la guía turística en la Artesanía | El hombre trata de buscar los horarios de las visitas posibles para obtener más información del tiempo que duran las mismas y cada cuánto se hacen, pero no es capaz de verlo claramente ni siquiera simulando una reserva desde la web.
+Mujer de 67 años jubilada y viajera. | Necesita que la página le proporcione información sobre cómo llegar al taller. Las conexiones de transporte público que existen para el sitio. | La usuaria necesita saber a ciencia cierta todas las posibilidades de transporte que hay tanto para llegar al sitio como para volver. En su plan de viaje necesitan saber horarios exactos para coger autobuses y poder volver a su pueblo tranquilas. Sin embargo, en la página web no aparece información de este estilo.
+Mujer de 67 años jubilada y viajera. | Encontrar información sobre si existen o no facilidades para personas con discapacidades físicas. Por ejemplo para gente que use silla de ruedas o personas con discapacidades auditivas.  | Ella y su grupo de amigas pueden llegar a necesitar que el establecimiento donde se realizan los talleres sea accesible. Además, es importante que el servicio (wc)  sea adecuado, suficientemente amplio y esté cerca de donde van a realizar el taller. Es importante encontrar este tipo de información en la web, ya que es decisivo para que esta usuaria elija esta compañía.
+
+
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
 
+Nuestra propuesta se trata de una aplicación web que tiene como objetivo facilitar y esclarecer de la mejor manera posible la oportunidad de exponer e informar de las posibilidades que ofrecen talleres de Artesanía como el Nazarí. De esta manera se busca completar información esencial así como mejorar la presentación que se expone en la web original, dándole más accesibilidad y una cara más amigable cada vez que un nuevo visitante alcance la web de la empresa, así como incluir algunas funcionalidades que nos parece básicas para una web de la temática que se maneja, exprimiendo al máximo las posibilidades de la empresa.
+
+Una de las funcionalidades que nos parece interesante implementar sería un sistema de valoraciones para incrementar la información disponible sobre los talleres. Dicha valoración se puede implementar en un apartado del menú de la web que disponga de una interfaz para mostrar los diferentes usuarios y monitores de la artesanía y así conocerlos mejor y ayudar a la elección de las sesiones.
+
+Por otro lado, queremos presentar la misma idea anterior, pero aplicada al taller en general. Habría otro apartado en la página web, donde ver valoraciones del taller en sí. Así, surge el concepto de “reseñas”. Éstas, ayudarán a conocer mejor el taller, estando disponible en la web un apartado para conocer la opinión de los visitantes acerca del lugar y donde serán libres de comentar todo aquello que deseen siguiendo los códigos de conducta pertinentes.
+
+Uno de los aspectos más importantes es el cómo llegar al taller, aspecto que no está por el momento muy claro. Se añadirá un apartado en la web que facilite formas de acceso mediante transporte al lugar donde se celebran los talleres y visitas, así como un formulario de contacto en el que se ofrecen guías turísticas por la ciudad llegando finalmente al destino.
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+![Método UX](img/ScopeCanvas2.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+A partir de nuestro caso de estudio hemos razonado quiénes podrían ser potencialmente los principales tipos de clientes que acudirían a la web. Hemos identificado dos tipos principales: empresas y usuarios.
+
+Los usuarios usarán la web con la finalidad de consultar información, así como gestionar y reservar por su cuenta aquello que le interese y gestionar personalmente sus acciones. Serán capaces de reservar visitas a la artesanía, buscar conexiones para llegar fácilmente al taller, dejar reseñas o contactar con la empresa. Dentro de éste grupo debemos distinguir dos categorías distintas:
+
+Individuos, o grupos de pocas personas como familias pequeñas, fáciles de gestionar.
+Grupos, como amigos, viajes del imserso... Grupos más grandes que requieren de mayor gestión y organización, dado que pueden ocupar la visita al taller en su completitud o casi.
+
+Las empresas tendrán tareas distintas a los usuarios individuales, ya que estarán más familiarizadas con la empresa y el taller y facilitarán a otros usuarios o grupos información o reservas mediante un flujo algo diferente al del individuo. Dentro de este grupo destacamos:
+
+Contratantes, siendo la parte de la empresa que funciona como intermediario entre la persona que asiste al taller y la artesanía.
+Asistentes, siendo aquellas personas que hacen uso de la empresa para conocer  asistir al taller.
+
+Haremos uso de una matriz de tareas dado que es más organizado y menos lioso para identificar los distintos grupos y hacer el análisis de las diferentes tareas que llevarán a cabo dentro de la web con la empresa del taller. En ella aparece la frecuencia de uso de cada usuario bajo la medida de:
+
+H: High -
+M: Medium -
+L: Low
+
+|  | Individuos | Grupos | Contratantes | Asistentes |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **Buscar información del taller**    | H   | H   |    |
+| **Solicitar ayuda**    | L   | M   | M   |
+| **Dejar reseña**       | M   | L   |     | L
+| **Dejar valoración**   | M   | L   |     | M
+| **Reservar visita**    | H   | M   | H   |
+| **Cancelar visita**    | L   | M   | L   |
+| **Cambiar visita**     | L   | M   | L   |
+| **Modificar reserva**  | L   | M   | M   |
+| **Reservar dinámicas de grupo**    | M   | H   |    | M
+| **Guías turísticas**    | L   | M  |    | M
+
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+![Método UX](img/Sitemap2.png)
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+| Etiqueta | Descripción |
+|:----------:|:----------:|
+| Home    | Página principal del sitio, se presenta la web de manera estándar.   
+| Inicio Sesión    | Permite a los usuarios registrarse o acceder a su cuenta con el fin de poder usar la web más allá de las funcionalidades básicas.   
+| Sobre Nosotros      | Muestra información sobre la artesanía, así como el taller.   
+| Búsqueda  | Forma de navegar por la web mediante una búsqueda personalizada.   
+| Tienda    | Tienda del taller, donde se ofrecen artesanías a la venta.   
+| Perfil   | Información del usuario: nombre, correo, contraseña, feedback... Se puede configurar también aspectos como la interfaz, tamaño de texto…   
+| Taller    | Taller de artesanía. Lugar en el que se puede gestionar todo lo referente a las visitas, actividades y valoraciones del lugar.   
+| Contacto  | Formas de contacto con el taller.   
+| Quiénes Somos   | Información más extensa recogida sobre el lugar, artesanos, monitores…   
+| Reseñas    | Reseñas del lugar, referente al taller.  
+| Mis Reservas    | Apartado de gestión de reservas de cada user, donde podrá modificarla, cancelarla…   
+| Configuración      | Apartado configurable de cada usuario.   
+| Mis valoraciones   | Feedback aportado por el usuario, ya sean valoraciones o reseñas.   
+| Visitas    | Visitas a la artesanía y reservas para acudir.   
+| Actividades    | Actividades gestionadas por el taller.   
+| Fotos y Vídeos     | Galería que muestra el taller y lo que se hace en el lugar.   
+| Valóranos  | Apartado para valorar el taller.   
+| Cómo llegar    | Formas de llegar para mejorar la comunicación con la artesanía.   
+| Trabaja con Nosotros    | Formulario para empresas externas a la artesanía interesados en trabajos conjuntos.   
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
