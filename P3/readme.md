@@ -41,7 +41,7 @@ Para el caso de estudio de nuestra aplicación, procederemos a facilitar un [vid
 
 
 ## Valoración
-    Con esta práctica nos hemos dado cuenta de la importancia de seguir los patrones de diseño para diseñar 
+  Con esta práctica nos hemos dado cuenta de la importancia de seguir los patrones de diseño para diseñar 
 cualquier interfaz. Además, de lo difícil que resulta cambiar el enfoque al pasar de web a móvil, al tener
 que comprimir la información en tan poco espacio. Colocar elementos de forma aleatoria según nuestro propio 
 criterio tiene parte de creatividad, pero se necesita seguir las pautas de lo que está medianamente estandarizado. 
