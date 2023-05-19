@@ -243,9 +243,9 @@ móvil. Por ejemplo, hemos respetado que haya un espaciado de 16 píxeles a cada
 
 ![Método UX](img/mockup.png)  3.d Mockup
 
-![Método UX](../img/mockup_1.png)
-![Método UX](../img/mockup_2.png)
-![Método UX](../img/mockup_3.png)
+![Método UX](img/mockup_1.png)
+![Método UX](img/mockup_2.png)
+![Método UX](img/mockup_3.png)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
