@@ -180,36 +180,79 @@ L: Low
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+## Moodboard:
+![Método UX](img/moodboard_p3.png)
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+## Logotipo:
+![Método UX](img/logotipo_nazaries.png)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
-----
-
-
->>> Plantear Landing Page 
+![Método UX](img/landing_page_p3.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Tras un estudio diverso de los patrones recomendados y más usados, algunos que
+consideramos son los que están aquí listados a continuación:
+- Filled Card: Carta de presentación usada para el perfil del usuario una vez accedido a
+su perfil personal para mostrar su información de manera limpia y ordenada.
+- Filled Button: Botones que contrastan con la superficie para ser prominentes y captar
+la atención del usuario. Tienen diversas acciones, como añadir al carrito en la tienda,
+editar información…
+- Text button: Botones que llaman menos la atención, dando importancia a otros
+elementos. Se usan por ejemplo en el navegador del menú principal pues se busca
+priorizar la imagen de la landing page que conforma el fondo.
+- Icon Button: Botones de iconos que buscan dar información con una simple imagen y
+una acción rápida, como por ejemplo, los botones de búsqueda o de acceso a la tienda.
+- Carousel: Conjunto de ítems que pueden ser pasados de uno a otros dotándolos de una
+presentación más limpia. Usada en el apartado de valoraciones de usuarios de la web
+por ejemplo. Se han seguido las especificaciones y las guías aprovechando al máximo
+el tamaño de la pantalla mostrando así contenido desplazable.
+- Divider: Delgada línea que separa contenedores, por ejemplo vista en nuestro
+apartado de la tienda.
+- Menus: Menús desplegables para mostrar más información en un apartado, por
+ejemplo, en el navegador.
+7
+- Navigation bar: Una barra de navegación que nos muestra las diferentes opciones por
+las que viajar en la web.
+- Search: Forma de búsqueda rápida usando una palabra clave a lo largo de la web.
+- Tabs: Tabs que organizan información en partes de la web, como se puede ver en el
+perfil de cada usuario.
+- Text fields: Campos de texto en los que se puede escribir, como puede ser en el
+buscador.
+- Home Link: Utilizamos el logo de la aplicación como enlace directo y desde cualquier
+página a la página principal (Home). Este patrón afecta a toda la aplicación, haciendo
+siempre accesible el home de la aplicación en cualquier momento.
+- Gallery: Utilizamos amplias galerías de imágenes para mostrar los mismos a los
+diversos usuarios.
+- Lazy Registration: Permitimos que cualquier usuario que acceda a la app pueda
+navegar sin ningún problema sin necesidad de registrarse. (Aunque se precisa de
+hacerlo para más funcionalidades).
+- Canonical Layouts: Usamos una lista vertical (que sigue especificaciones del carrusel)
+para mostrar contenido el cual se puede inspeccionar. Clicando encima del contenedor
+deseado, se desplegará información de interés para cualquier usuario. Diferenciamos
+aquí un apartado como el área de listas, y otro como el área de detalles.
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+![Método UX](../img/mockup_1.png)
+![Método UX](../img/mockup_2.png)
+![Método UX](../img/mockup_3.png)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+Para el caso de estudio de nuestra aplicación, procederemos a facilitar un - [video](https://drive.google.com/file/d/1a8KWVYeLyN3DoRkHZNeWks9Y2e_UtE1p/view?usp=share_link) en el que se muestra la aplicación, así como los diferentes user flows del que disponen los bocetos de alta calidad.
+- [Enlace para visualizar el video](https://drive.google.com/file/d/1a8KWVYeLyN3DoRkHZNeWks9Y2e_UtE1p/view?usp=share_link)
+- [Enlace Figma Layout HI-FI](https://www.figma.com/file/OXkhoL0cA7UdzeFmaw111N/Bocetos-Hifi?type=design&node-id=0%3A1&t=HzKr2obpAHxYhJ7n-1)
+- [Enlace Figma Mockup HI-FI](https://www.figma.com/file/2KhaXOvFOiNnS51NrE5f00/Layout-Hi-fi-(Mockups)?type=design&node-id=0%3A1&t=KOnZHQURC7AKFPsy-1)
+
+
 
 
 ## Paso 4. Evaluación 
