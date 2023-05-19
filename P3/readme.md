@@ -34,14 +34,14 @@ que puede visualizarse en la práctica anterior o en la página inicial de nuest
 
 
 ## Documentación: Publicación del Case Study
-Para el caso de estudio de nuestra aplicación, procederemos a facilitar un - [video](https://drive.google.com/file/d/1a8KWVYeLyN3DoRkHZNeWks9Y2e_UtE1p/view?usp=share_link) en el que se muestra la aplicación, así como los diferentes user flows del que disponen los bocetos de alta calidad.
+Para el caso de estudio de nuestra aplicación, procederemos a facilitar un [video](https://drive.google.com/file/d/1a8KWVYeLyN3DoRkHZNeWks9Y2e_UtE1p/view?usp=share_link) en el que se muestra la aplicación, así como los diferentes user flows del que disponen los bocetos de alta calidad.
 - [Enlace para visualizar el video](https://drive.google.com/file/d/1a8KWVYeLyN3DoRkHZNeWks9Y2e_UtE1p/view?usp=share_link)
 
 
 
 
 ## Valoración
-Con esta práctica nos hemos dado cuenta de la importancia de seguir los patrones de diseño para diseñar 
+    Con esta práctica nos hemos dado cuenta de la importancia de seguir los patrones de diseño para diseñar 
 cualquier interfaz. Además, de lo difícil que resulta cambiar el enfoque al pasar de web a móvil, al tener
 que comprimir la información en tan poco espacio. Colocar elementos de forma aleatoria según nuestro propio 
 criterio tiene parte de creatividad, pero se necesita seguir las pautas de lo que está medianamente estandarizado. 
