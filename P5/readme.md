@@ -14,21 +14,21 @@ Para realizar este estudio, hemos establecido tres tareas (o supuestos) para que
 
 >>> 5.a) Usuario Ajeno a la Aplicación
 
-![Método UX](img/S1.png)
+![Método UX](../img/S1.png)
 
-![Método UX](img/S2.png)
+![Método UX](../img/S2.png)
 
-![Método UX](img/S3.png)
+![Método UX](../img/S3.png)
 
-![Método UX](img/S4.png)
+![Método UX](../img/S4.png)
 
-![Método UX](img/S5.png)
+![Método UX](../img/S5.png)
 
-![Método UX](img/S6.png)
+![Método UX](../img/S6.png)
 
-![Método UX](img/s7.png)
+![Método UX](../img/s7.png)
 
-![Método UX](img/s8.png)
+![Método UX](../img/s8.png)
 
 >>> 5.b) Usuario familiarizado con la aplicación
 
