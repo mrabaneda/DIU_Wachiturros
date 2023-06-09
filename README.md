@@ -453,9 +453,9 @@ Para realizar este estudio, hemos establecido tres tareas (o supuestos) para que
 
 ![Método UX](img/S6.png)
 
-![Método UX](img/S7.png)
+![Método UX](img/s7.png)
 
-![Método UX](img/S8.png)
+![Método UX](img/s8.png)
 
 >>> 5.b) Usuario familiarizado con la aplicación
 
